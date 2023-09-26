@@ -7,6 +7,7 @@
 
 import UIKit
 
+// контроллер вкладки панели Сharacter
 final class RMCharacterViewController: UIViewController {
 
     override func viewDidLoad() {

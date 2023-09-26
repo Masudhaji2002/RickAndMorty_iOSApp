@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+// контроллер вкладки панели Settings
 final class RMSettingsViewController: UIViewController {
 
     override func viewDidLoad() {

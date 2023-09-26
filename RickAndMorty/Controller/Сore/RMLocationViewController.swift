@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+// контроллер вкладки панели Дocation
 final class RMLocationViewController: UIViewController {
 
     override func viewDidLoad() {

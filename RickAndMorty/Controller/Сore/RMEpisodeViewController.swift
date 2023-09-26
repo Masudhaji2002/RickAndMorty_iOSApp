@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+// контроллер вкладки панели Episode
 final class RMEpisodeViewController: UIViewController {
 
     override func viewDidLoad() {
